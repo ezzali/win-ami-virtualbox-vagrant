@@ -1,4 +1,4 @@
-#### Build Windows AWS Instance
+#### Start A Windows EC2 Instance based on AMI
 
 A Windows AMI (AMI ID: ami-ed82fcd7) has been baked with VirtualBox, Vagrant and Packer.
 
